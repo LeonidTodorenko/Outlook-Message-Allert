@@ -1,0 +1,17 @@
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\obj\Debug\OutlookMessageAllert.MessageAlert.resources
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\obj\Debug\OutlookMessageAllert.Properties.Resources.resources
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\obj\Debug\OutlookMessageAllert.csproj.GenerateResource.Cache
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\OutlookMessageAllert.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\OutlookMessageAllert.pdb
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\OutlookMessageAllert.dll.manifest
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\OutlookMessageAllert.vsto
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\obj\Debug\OutlookMessageAllert.dll
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\obj\Debug\OutlookMessageAllert.pdb
+C:\Data\work\OutlookMessageAllert\OutlookMessageAllert\bin\Debug\OutlookMessageAllert.dll.config
